@@ -1,4 +1,4 @@
-#API Rest Basic Examples Tesnting
+# API Rest Basic Examples Tesnting
 
 ## Modulos
 
@@ -19,7 +19,7 @@
 
 - Usuarios
 
-#Tecnólogias Utilizadas
+# Tecnólogias Utilizadas
 
 - WorkBench Mysql.
 - Php Ver.8.0.
