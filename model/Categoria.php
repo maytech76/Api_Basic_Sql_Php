@@ -10,7 +10,7 @@
         $sql="call SP_L_ALL_CAT";
         $query=$conectar->prepare($sql);
         $query->execute();
-        return $query->fetchAll();
+        return $query->fetchAll(PDO::FETCH_ASSOC);
      }
 
 

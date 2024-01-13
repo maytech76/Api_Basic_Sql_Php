@@ -3,8 +3,8 @@
 ## Modulos
 
 - Productos
-- Categorias
-- Depositos
+- Categorias ( CRUD completado)
+- Depositos ( CRUD completado)
 - Stock
 
 - Proveedores
@@ -12,15 +12,19 @@
 - Compras Detalles
 
 
-- Clientes
+- Clientes ( CRUD completado)
 - Vendedores
 - Ventas
 - Ventas Detalles
 
 - Usuarios
 
-# Tecnólogias Utilizadas
+## Tecnólogias Utilizadas
 
+### Backend:
 - WorkBench Mysql.
 - Php Ver.8.0.
+
+### Frontend:
+- Postman (Testing)
 
